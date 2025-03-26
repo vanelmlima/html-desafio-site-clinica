@@ -2,6 +2,8 @@
 
 Esta é a minha resolução do desafio. Estou usando o curso para revisar a base do html, então mudei algumas coisas no css base e também nas tags do html, ajustando a semântica, que é o próximo assunto da trilha.
 
+Os nomes e textos foram criados em colaboração com IA.
+
 ## Módulo 02 - HTML I - Conceitos Básicos
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
