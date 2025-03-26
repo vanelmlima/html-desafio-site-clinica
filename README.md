@@ -1,6 +1,6 @@
 # Desafio de Projeto | Trilha HTML - Dio.me
 
-Esta é a minha resolução do desafio.
+Esta é a minha resolução do desafio. Estou usando o curso para revisar a base do html, então mudei algumas coisas no css base e também nas tags do html, ajustando a semântica, que é o próximo assunto da trilha.
 
 ## Módulo 02 - HTML I - Conceitos Básicos
 
