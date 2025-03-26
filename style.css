@@ -21,16 +21,17 @@
 
     font-size: var(--font-size-base);
     text-decoration: none;
+    color: var(--bg-text-dark-color);
 }
 
 html, body {
     margin: 0;
+    text-align: justify;
 }
 body {
     background-color: var(--bg-text-light-color);
     display: flex;
     justify-content: center;
-    color: var(--bg-dark-color);
 }
 
 a {
@@ -74,6 +75,10 @@ li{
     color: var(--bg-text-light-color);
     min-height: 20vh;
     padding: 20px;
+    display: flex;
+}
+h1 {
+    margin-left: 1em;
 }
 .content {
     min-height: 60vh;
