@@ -1,3 +1,27 @@
+:root {
+    --color-bone: #DED8C4;
+    --color-artichoke: #96917F;
+    --color-dark-charcoal: #2B3031;
+    --color-royal-brown: #523B2E;
+    --color-peach-orange: #EFC994;
+    --color-rose-blush: #D8A48F;
+
+    --font-size-base: 20px;
+    --text-general-color: var(--color-bone);
+    --dark-background-color: var(--color-dark-charcoal);
+    --text-highlight-color: var(--color-peach-orange);
+    --color-highlight-background: var(--color-royal-brown);
+    --color-text-faded: var(--color-artichoke);
+    --color-6th: var(--color-rose-blush);
+
+    --border-radius-small: 0.25rem;
+    --border-radius-medium: 0.625rem;
+    --border-radius-circle: 50%;
+    --transition-fast: 0.3s;
+
+    font-size: var(--font-size-base);
+}
+
 html, body {
     margin: 0;
 }
