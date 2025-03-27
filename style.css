@@ -21,7 +21,7 @@
 
     font-size: var(--font-size-base);
     text-decoration: none;
-    color: var(--bg-text-dark-color);
+    color: var(--text-dark-color);
 }
 
 html, body {
@@ -98,4 +98,14 @@ footer ul {
 
 .contato li {
     width: 30%;
+}
+
+table, th, td {
+    border: 1px solid var(--text-dark-color);
+    border-collapse: collapse;
+    padding: 0.5em;
+}
+
+td {
+    text-align: center;
 }

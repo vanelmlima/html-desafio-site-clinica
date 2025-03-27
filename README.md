@@ -52,7 +52,7 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 ### Horário de Atendimento
 
 1. Deve ter uma imagem diferente no **Header**.✅
-2. Em **Content** um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
+2. Em **Content** um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.✅
 
     |Serviços |Segunda a Sexta | Sábados | Feriados |
     |---|---|---|---|
