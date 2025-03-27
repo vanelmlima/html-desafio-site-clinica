@@ -64,7 +64,7 @@ li{
     padding: 10px 20px;
 }
 .menu ul {
-    height: 50%;
+    height: 50vh;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
@@ -94,6 +94,11 @@ h1 {
 footer ul {
     display: flex;
     flex-direction: row;
+    align-content: space-around;
+}
+
+footer ul li {
+    padding: 1em;
 }
 
 .contato li {
