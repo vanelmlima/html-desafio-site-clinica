@@ -4,6 +4,8 @@ Esta é a minha resolução do desafio. Estou usando o curso para revisar a base
 
 Os nomes e textos foram criados em colaboração com IA.
 
+Confira o resultado da página: <https://vanelmlima.github.io/html-desafio-site-clinica/>
+
 ## Módulo 02 - HTML I - Conceitos Básicos
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
